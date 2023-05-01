@@ -44,7 +44,7 @@ const Form = () => {
             placeholder="Enter something todo..."
           />
           <button type="submit" className="submit">
-            Update
+            Edit
           </button>
         </form>
       ) : (
